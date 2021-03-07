@@ -1,0 +1,1 @@
+# gitsm-lfs-bug-submodule
